@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanban-doit": {
+      "hosting": {
+        "kanban-doit": [
+          "kanban-doit"
+        ]
+      }
+    }
+  }
+}
